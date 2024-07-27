@@ -8,6 +8,6 @@ def hcf(x, y):
                hcf = i  
     return hcf  
   
-num1 =int(input("Enter the Fisrst number: "))   
+num1 =int(input("Enter the First number: "))   
 num2 =int(input("Enter the Second number: "))  
-print("The H.C.M of", num1,"and", num2,"is", hcf(num1, num2))
+print("The H.C.F of", num1,"and", num2,"is", hcf(num1, num2))

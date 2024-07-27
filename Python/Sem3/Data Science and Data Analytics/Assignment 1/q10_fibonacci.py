@@ -1,7 +1,7 @@
 n = int(input("Enter Number of Terms: "))
 
 if n == 0:
-    print("Nothing to Print :)")
+    print("Nothing to Print.")
 elif n == 1:
     print("0")
 else:
