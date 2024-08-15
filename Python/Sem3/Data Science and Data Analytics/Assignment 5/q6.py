@@ -1,14 +1,14 @@
 student = {}
 
-student["First Name"] = "Ayush"
-student["Last Name"] = "Dey"
+student["First Name"] = "Subhrajyoti"
+student["Last Name"] = "Sarkar"
 student["Gender"] = "Male"
-student["Age"] = 23
+student["Age"] = 21
 student["Marital Status"] = "Single"
 student["Skills"] = ["Python", "Zoning Out :)"]
 student["Country"] = "India"
 student["City"] = "Kolkata"
-student["Address"] = "Belgharia"
+student["Address"] = "Khardah"
 
 
 # 1
